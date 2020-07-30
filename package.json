@@ -1,0 +1,26 @@
+{
+  "name": "qa-tech-test",
+  "version": "1.0.0",
+  "description": "Welcome to the BP Tech Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bp/qa-tech-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bp/qa-tech-test/issues"
+  },
+  "homepage": "https://github.com/bp/qa-tech-test#readme",
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  },
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
